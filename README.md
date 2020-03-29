@@ -1,2 +1,2 @@
-#FCC_Projects
-Projects of Free Code Camp
+#FCC Projects
+*Simple Projects involving HTML and CSS*
